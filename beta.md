@@ -15,18 +15,20 @@
 
 ## 🚀 About Me
 
-Developer mit Fokus auf **performante Systeme, Game-Server-Infrastruktur und moderne Webentwicklung**.
+I am a developer focused on **high-performance systems, game server infrastructure, and modern web applications**.
 
-Ich arbeite praxisnah, lösungsorientiert und optimiere Systeme bis ins Detail – besonders im Bereich **FiveM Server Development**, Web-Interfaces und Backend-Architektur.
+My work is highly practical and optimization-driven, with a strong focus on **FiveM server development**, backend systems, and scalable architectures.
+
+I prefer building real systems over theory – optimized, efficient, and reliable.
 
 ---
 
 ## 🧠 Core Philosophy
 
-- ⚡ Performance first – jedes System muss effizient laufen  
-- 🧱 Saubere Architektur statt Quick & Dirty Lösungen  
-- 🔍 Debugging auf tiefem System-Level  
-- 📈 Skalierbare Strukturen statt kurzfristiger Fixes  
+- ⚡ Performance first – every system must be efficient  
+- 🧱 Clean architecture over quick hacks  
+- 🔍 Deep-level debugging and system understanding  
+- 📈 Scalable design instead of short-term solutions  
 
 ---
 
@@ -47,23 +49,23 @@ Ich arbeite praxisnah, lösungsorientiert und optimiere Systeme bis ins Detail �
 
 ---
 
-## 🎮 Specialization
+## 🎮 Specializations
 
 - FiveM Server Development (Frameworks, Scripts, Optimization)
-- Web Interfaces für Game-Server & Admin Panels
+- Web Interfaces for Game Servers & Admin Panels
 - Backend Systems & Database Architecture
-- Performance Tuning (CPU/GPU/Server Load Optimization)
-- Automation & Tooling für Server-Management
+- Performance Tuning (CPU / GPU / Server Optimization)
+- Automation & Server Management Tools
 
 ---
 
 ## 🖥️ Environment
 
-- High-End Development & Gaming PC (RTX 5080 / Ryzen 7 9850X3D)
+- High-end Development & Gaming PC (RTX 5080 / Ryzen 7 9850X3D)
 - 64 GB DDR5 RAM
-- 6× 4K 240Hz OLED Multi-Monitor Setup
-- Parallel Workflow für Dev, Testing & Monitoring
-- Server-Zugriff & Remote Development Setup
+- 6× 4K 240Hz OLED multi-monitor setup
+- Parallel workflow for development, testing, and monitoring
+- Remote server management & infrastructure control
 
 ---
 
@@ -82,17 +84,17 @@ Ich arbeite praxisnah, lösungsorientiert und optimiere Systeme bis ins Detail �
 
 ## 📌 Focus Areas
 
-- 🎯 FiveM Ecosystem Development
-- 🌐 Modern Web Applications
-- ⚙️ Server Infrastructure & Optimization
-- 🔧 System-Level Debugging & Performance Tuning
+- 🎯 FiveM ecosystem development  
+- 🌐 Modern web applications  
+- ⚙️ Server infrastructure & optimization  
+- 🔧 System-level debugging & performance engineering  
 
 ---
 
 ## 📫 Contact
 
-- Discord: *(optional hinzufügen)*
-- Projects: Game Servers / Web Systems / Automation Tools
+- Discord: *(add if needed)*
+- Projects: Game servers, web systems, automation tools
 
 ---
 
