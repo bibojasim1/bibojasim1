@@ -1,22 +1,38 @@
-# 👨‍💻 Bibo | Developer Profile
+<h1 align="center">👨‍💻 Bibo | Developer</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bibo&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/bibo?style=social)
-![GitHub stars](https://img.shields.io/github/stars/bibo?style=social)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;FiveM+Server+Developer;System+%26+Performance+Engineer;Building+fast%2C+scalable+systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibo&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/bibo?style=social" />
+  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Systems-blue" />
+  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-success" />
+</p>
 
 ---
 
-## 🚀 Über mich
+## 🚀 About Me
 
-Ich bin ein **Full-Stack & Game Server Developer** mit Fokus auf performante Systeme, FiveM-Serverentwicklung und moderne Webinterfaces.
+Developer mit Fokus auf **performante Systeme, Game-Server-Infrastruktur und moderne Webentwicklung**.
 
-Mein Schwerpunkt liegt auf **praxisnaher Entwicklung**, Performance-Optimierung und dem Aufbau stabiler Server-Infrastrukturen.
+Ich arbeite praxisnah, lösungsorientiert und optimiere Systeme bis ins Detail – besonders im Bereich **FiveM Server Development**, Web-Interfaces und Backend-Architektur.
+
+---
+
+## 🧠 Core Philosophy
+
+- ⚡ Performance first – jedes System muss effizient laufen  
+- 🧱 Saubere Architektur statt Quick & Dirty Lösungen  
+- 🔍 Debugging auf tiefem System-Level  
+- 📈 Skalierbare Strukturen statt kurzfristiger Fixes  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Development
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,50 +43,59 @@ Mein Schwerpunkt liegt auf **praxisnaher Entwicklung**, Performance-Optimierung 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Server](https://img.shields.io/badge/Server-Performance%20Tuning-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🎮 Fokusbereiche
+## 🎮 Specialization
 
-- FiveM Server Development (Lua Scripts, Frameworks, Optimization)
-- Web Development (UI/UX, Admin Panels, Server Interfaces)
-- System & Performance Engineering
-- Game Server Infrastructure (Linux, Databases, Hosting)
-
----
-
-## 🧠 Arbeitsweise
-
-- Performance-orientiert & effizient
-- Strukturierte Systementwicklung statt Chaos-Code
-- Fokus auf skalierbare Serverarchitektur
-- Debugging & Optimierung auf tiefem Level
+- FiveM Server Development (Frameworks, Scripts, Optimization)
+- Web Interfaces für Game-Server & Admin Panels
+- Backend Systems & Database Architecture
+- Performance Tuning (CPU/GPU/Server Load Optimization)
+- Automation & Tooling für Server-Management
 
 ---
 
-## 🖥️ Setup
+## 🖥️ Environment
 
-- High-End Gaming & Development PC (RTX 5080 / Ryzen 7 9850X3D)
+- High-End Development & Gaming PC (RTX 5080 / Ryzen 7 9850X3D)
 - 64 GB DDR5 RAM
 - 6× 4K 240Hz OLED Multi-Monitor Setup
-- Multi-System Workflow für Development & Testing
-- Laptop für mobile Entwicklung & Serverzugriff
+- Parallel Workflow für Dev, Testing & Monitoring
+- Server-Zugriff & Remote Development Setup
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibo&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bibo&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibo&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibo&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Kontakt
+## 📌 Focus Areas
 
-- Discord / Community: *(optional hinzufügen)*
-- Projekte: FiveM, Web Interfaces, Server Systems
+- 🎯 FiveM Ecosystem Development
+- 🌐 Modern Web Applications
+- ⚙️ Server Infrastructure & Optimization
+- 🔧 System-Level Debugging & Performance Tuning
 
 ---
 
-⭐ Always building, optimizing & improving systems.
+## 📫 Contact
+
+- Discord: *(optional hinzufügen)*
+- Projects: Game Servers / Web Systems / Automation Tools
+
+---
+
+<p align="center">
+  <b>“Build fast. Optimize harder. Scale everything.”</b>
+</p>
