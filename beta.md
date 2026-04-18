@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibo&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=bibojasim1&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/bibo?style=social" />
   <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Systems-blue" />
   <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-success" />
@@ -72,12 +72,12 @@ I prefer building real systems over theory – optimized, efficient, and reliabl
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibo&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibo&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bibojasim1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibojasim1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibo&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibojasim1&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
