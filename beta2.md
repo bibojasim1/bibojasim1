@@ -48,13 +48,8 @@ I specialize in building fast, efficient and production-ready systems with a str
 
 ## ⚙️ Systems & Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -68,15 +63,6 @@ I specialize in building fast, efficient and production-ready systems with a str
 - Backend Systems & Database Architecture
 - Performance Engineering & Optimization
 - Automation & Infrastructure Tools
-
----
-
-## 🖥️ Environment
-
-- High-performance Development & Gaming Setup
-- Multi-monitor workflow (4K / high refresh rate)
-- Server infrastructure & remote management
-- Parallel development, testing & monitoring setup
 
 ---
 
