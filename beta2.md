@@ -23,12 +23,6 @@ I specialize in building fast, efficient and production-ready systems with a str
 
 ---
 
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/901436071206850570)
-
----
-
 ## 🧠 Core Philosophy
 
 - ⚡ Performance first – every system must be efficient  
